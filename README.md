@@ -61,7 +61,7 @@ The trained model predicts severity levels for the test dataset, mapping predict
 
 ## Results
 
-- **Validation Accuracy**: 98.9%
+- **Validation Accuracy**: 88.9%
 
 ---
 
